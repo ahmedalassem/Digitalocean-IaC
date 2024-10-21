@@ -129,7 +129,7 @@ Provisioning different types of infrastructure on DigitalOcean using Terraform, 
 ## References
 
 - [How to Use Terraform with DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-terraform-with-digitalocean): A guide to using Terraform for managing resources on DigitalOcean.
-
+- [Project Idea!](https://roadmap.sh/projects/iac-digitalocean)
 ## Future Improvements
 
 - **Automate Backups**: Implement a backup solution for the droplets and databases.
